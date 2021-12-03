@@ -1,0 +1,22 @@
+  {
+   "fanclub": [
+      {
+        "slug": "sarangyi-fanclub",
+        "title": "Welcome to the Sarangyi fan club",
+        "image": "Sarangyiwebsite",
+        "blurb": "Isn't she beautiful"
+      },
+      {
+        "slug": "sarangyi-bio",
+        "title": "Hello Sarangyi fans",
+        "image": "SarangyiRoar",
+        "blurb": "Sarangyi is very beautiful but also very dangerous. Her teeth and claws are very sharp, so don't test her"
+      },
+      {
+        "slug": "sarangyi-reviews",
+        "title": "Sarangyi reviews",
+        "image": "SarangyiLookingAway",
+        "blurb": "10/10 best cat in the world"
+      }
+   ]
+} 
