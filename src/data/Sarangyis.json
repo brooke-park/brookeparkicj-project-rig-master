@@ -1,9 +1,9 @@
   {
-   "fanclub": [
+   "Sarangyis": [
       {
         "slug": "sarangyi-fanclub",
         "title": "Welcome to the Sarangyi fan club",
-        "image": "Sarangyiwebsite",
+        "image": "SarangyiWebsite",
         "blurb": "Isn't she beautiful"
       },
       {
@@ -15,7 +15,7 @@
       {
         "slug": "sarangyi-reviews",
         "title": "Sarangyi reviews",
-        "image": "SarangyiLookingAway",
+        "image": "SarangyiLooking",
         "blurb": "10/10 best cat in the world"
       }
    ]

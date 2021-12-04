@@ -14,10 +14,10 @@
   "to_bake": [
     {
       "template": "bake-fanclub",
-      "data": "fanclub",
-      "array": "fanclub",
+      "data": "Sarangyis",
+      "array": "Sarangyis",
       "slug": "slug",
-      "path": "fanclub"
+      "path": "Sarangyis"
     }
   ]
 }
